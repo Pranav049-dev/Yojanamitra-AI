@@ -1,0 +1,1 @@
+/Users/gopeshwar/Desktop/Aditya Pande/bin/get-pip.py
